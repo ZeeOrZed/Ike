@@ -1,3 +1,6 @@
+// Zuhair Farhan, 27100
+// Week 3 (31-01-23), Student Class
+
 import java.util.*;
 
 public class Student
